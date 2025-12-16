@@ -1,1 +1,2 @@
-estos son mis cambios
+o	Revisión de código
+o	Test manual
