@@ -1,2 +1,4 @@
+o	Revisión de código
+o	Test manual
  Desarrollo
  Test unitarios
